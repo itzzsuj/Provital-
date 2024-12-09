@@ -1,9 +1,12 @@
 # Provital
 An assignment as part of the hiring process , Provital a responsive webpage created using React and Vanilla CSS.
 The initial page : 
-<img width="1434" alt="Screenshot 2024-12-09 at 9 11 50 PM" src="https://github.com/user-attachments/assets/93ba37d6-1df1-4128-a8af-430dcd6e0539">
+<img width="1438" alt="Screenshot 2024-12-09 at 10 30 03 PM" src="https://github.com/user-attachments/assets/ba11c5e3-f2c7-4ecd-aba9-5362d062e5dc">
+
 
 The second part :
-<img width="1435" alt="Screenshot 2024-12-09 at 9 12 31 PM" src="https://github.com/user-attachments/assets/322407f1-ad57-456c-b964-7768d78690fa">
+<img width="1440" alt="Screenshot 2024-12-09 at 10 30 42 PM" src="https://github.com/user-attachments/assets/cb39a768-b937-4b1f-a388-ddf2d278c578">
+
+
 
 
